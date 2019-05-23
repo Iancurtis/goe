@@ -1,4 +1,4 @@
-package geo_path
+package goe_path
 
 import "testing"
 
